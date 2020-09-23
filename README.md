@@ -1,5 +1,9 @@
 # tinder-clone-react
 
+This is a DEMO
+
+![Alt text](./DEMO.jpg?raw=true 'TINDER-CLONE-REACT')
+
 # First Step
 
 download and clone the project
